@@ -26,3 +26,7 @@ innerobj.json
 }
 ```
 If an object contains a different object that is defined in JSON, they must be compiled together.
+
+# It also has decompilation!
+
+See an example [here](https://gist.github.com/jammy-dodgers/b4a9775428e13cc74fd4ee1ee8359add)
